@@ -5,7 +5,7 @@
 Indrajeet Sunil Chavan
 Full-Stack Engineer | Building scalable applications from server to screen.
 
-I'm an Aspiring Full Stack Developer passionate about end-to-end app development[cite: 2]. [cite_start]I'm a technology enthusiast with strong foundational knowledge in mobile app development, UI/UX design, and backend integration[cite: 4, 2]. [cite_start]I am seeking an opportunity to contribute my technical skills and creativity to innovative software projects[cite: 5, 8].
+I'm an Aspiring Full Stack Developer passionate about end-to-end app development. I'm a technology enthusiast with strong foundational knowledge in mobile app development, UI/UX design, and backend integration. I am seeking an opportunity to contribute my technical skills and creativity to innovative software projects.
 
 Feel free to check out my projects and contributions below!
 
