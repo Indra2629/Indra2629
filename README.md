@@ -9,10 +9,6 @@ I'm an Aspiring Full Stack Developer passionate about end-to-end app development
 
 Feel free to check out my projects and contributions below!
 
-Technologies & Tools
-
-Here are some of the technologies I work with:
-
 ### 💻 Technologies & Tools
 
 Here are some of the technologies I work with:
