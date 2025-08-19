@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://storage.googleapis.com/gcs-image-generation-content/0" alt="Full-stack and Web Developer Banner">
+  <img src="banner.png">
 </p>
 
 Indrajeet Sunil Chavan
