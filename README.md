@@ -13,12 +13,16 @@ Technologies & Tools
 
 Here are some of the technologies I work with:
 
-Programming Languages: `Java`, `Python`, `C`
-Web Technologies:`HTML`, `CSS`, `JavaScript`
-Android Tools:`Flutter`, `Android Studio`, `Room Database`, `Firebase`
-APIs & Networking:`REST APIs`, `JSON`
-Tools & Platforms:`Git`, `GitHub`
+### 💻 Technologies & Tools
 
+Here are some of the technologies I work with:
+
+* **Programming Languages:** Java, Python, C
+* **Web Technologies:** HTML, CSS, JavaScript
+* **Android Tools:** Flutter, Android Studio, Room Database, Firebase
+* **APIs & Networking:** REST APIs, JSON
+* **Tools & Platforms:** Git, GitHub
+  
 Connect with Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/indrachavan)
