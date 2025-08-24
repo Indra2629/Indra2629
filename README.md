@@ -28,19 +28,51 @@ Connect with Me
 ## 🚀 My Projects
 
 <p align="center">
+  <!-- Portfolio -->
   <a href="https://github.com/Indra2629/my-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Indra2629&repo=my-portfolio&theme=radical" />
+    <img src="https://img.shields.io/badge/-My%20Portfolio-000?style=for-the-badge&logo=css3&logoColor=1572B6" />
   </a>
+  
+  <!-- Freshee Cart -->
   <a href="https://github.com/Indra2629/Freshee-Cart-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Indra2629&repo=Freshee-Cart-&theme=radical" />
+    <img src="https://img.shields.io/badge/-Freshee%20Cart-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </a>
-  <a href="https://indra2629.github.io/InventoryPro/">
-    <img src="    " />
-  </a>
+  
+  <!-- Profile Repo -->
   <a href="https://github.com/Indra2629/Indra2629">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Indra2629&repo=Indra2629&theme=radical" />
+    <img src="https://img.shields.io/badge/-Profile%20Repo-000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  
+  <!-- InventoryPro -->
+  <a href="https://github.com/Indra2629/InventoryPro">
+    <img src="https://img.shields.io/badge/-InventoryPro-000?style=for-the-badge&logo=python&logoColor=3776AB" />
   </a>
 </p>
+
+---
+
+### Project Templates
+
+#### 1️⃣ My Portfolio
+- **Tech Stack:** HTML, CSS, JavaScript  
+- **Description:** Personal portfolio website to showcase projects, skills, and resume.  
+- **Live Link:** [View Here](https://indra2629.github.io/my-portfolio)  
+
+#### 2️⃣ Freshee Cart
+- **Tech Stack:** JavaScript, HTML, CSS  
+- **Description:** E-commerce platform for managing cart and orders with dynamic UI.  
+- **GitHub Link:** [View Repository](https://github.com/Indra2629/Freshee-Cart-)  
+
+#### 3️⃣ Profile Repo
+- **Tech Stack:** GitHub, Markdown  
+- **Description:** Central repository for managing code snippets, personal projects, and documentation.  
+- **GitHub Link:** [View Repository](https://github.com/Indra2629/Indra2629)  
+
+#### 4️⃣ InventoryPro
+- **Tech Stack:** Python, Tkinter, SQLite (or any DB)  
+- **Description:** Inventory management system with analytics, stock tracking, and reporting.  
+- **GitHub Link:** [View Repository](https://github.com/Indra2629/InventoryPro)  
+
 
 ## 🛠 My Tech Stack
 
